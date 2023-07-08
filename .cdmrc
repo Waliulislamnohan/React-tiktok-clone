@@ -1,0 +1,3 @@
+terminal-one: yarn && yarn dev
+tabs: ['src/Video.jsx']
+live-reload-browser: false
